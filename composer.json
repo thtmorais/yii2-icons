@@ -1,0 +1,26 @@
+{
+    "name": "thtmorais/yii2-icons",
+    "description": "Feather - Simply beautiful open source icons for Yii PHP Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","feather","feather icons","icons"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/thtmorais/yii2-icons/issues",
+        "source": "https://github.com/thtmorais/yii2-icons"
+    },
+    "authors": [
+        {
+            "name": "Matheus Evangelista Morais",
+            "email": "thtmorais@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "npm-asset/feather-icons": "4.28.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "thtmorais\\icons\\": ""
+        }
+    }
+}
