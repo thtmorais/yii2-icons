@@ -1,6 +1,6 @@
-Feather - Simply beautiful open source icons for Yii PHP Framework
+Assets icons for Yii PHP Framework
 ==================================================================
-Feather - Simply beautiful open source icons for Yii PHP Framework
+Assets icons for Yii PHP Framework
 
 Installation
 ------------
@@ -27,6 +27,8 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
+Feather icons use:
+
 ```php
 <?php
 
@@ -37,4 +39,4 @@ FeatherIconsAsset::register($this);
 ?>
 ```
 
-You can preview all icons [here](https://feathericons.com/)
+You can preview all Feather icons [here](https://feathericons.com/)
