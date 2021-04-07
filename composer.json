@@ -18,9 +18,14 @@
         "yiisoft/yii2": "~2.0.0",
         "npm-asset/feather-icons": "4.28.0"
     },
+    "config": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm"
+        }
+    },
     "autoload": {
         "psr-4": {
-            "thtmorais\\icons\\": ""
+            "thtmorais\\icons\\": "src"
         }
     }
 }
