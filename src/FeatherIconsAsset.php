@@ -25,7 +25,11 @@ class FeatherIconsAsset extends AssetBundle
      */
     public function registerAssetFiles($view)
     {
-        $this->js = [$this->path . YII_DEBUG ? 'feather.js' : 'feather.min.js'];
+        if(YII_DEBUG){
+            $this->js = [$this->path.'feather.js'];
+        }else{
+            $this->js = [$this->path.'feather.min.js'];
+        }
 
         parent::registerAssetFiles($view);
     }
