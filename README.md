@@ -40,5 +40,6 @@ FlagIconsAsset::register($this);
 ?>
 ```
 
-You can preview all Feather icons [here](https://feathericons.com/)
-Yo can preview all Flag icons [here](https://flagicons.lipis.dev/)
+You can preview all Feather icons [here](https://feathericons.com/).
+
+You can preview all Flag icons [here](https://flagicons.lipis.dev/).
