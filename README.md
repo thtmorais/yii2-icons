@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 
 Either run
 
-```
+```shell
 composer require thtmorais/yii2-icons "*"
 ```
 
 or add
 
-```
+```json
 "thtmorais/yii2-icons": "*"
 ```
 
@@ -35,8 +35,10 @@ Feather icons use:
 use thtmorais\icons\FeatherIconsAsset;
 
 FeatherIconsAsset::register($this);
+FlagIconsAsset::register($this);
 
 ?>
 ```
 
 You can preview all Feather icons [here](https://feathericons.com/)
+Yo can preview all Flag icons [here](https://flagicons.lipis.dev/)
