@@ -16,7 +16,7 @@ class FlagIconsAsset extends AssetBundle
     public $sourcePath = "@npm/flag-icons/";
 
     /**
-     * @var string[]
+     * @var array
      */
     public $css = [
         YII_DEBUG ? 'css/flag-icons.css' : 'css/flag-icons.min.css'

@@ -14,9 +14,9 @@ class FeatherIconsAsset extends AssetBundle
      * @var string
      */
     public $sourcePath = "@npm/feather-icons/dist/";
-    
+
     /**
-     * @var string[]
+     * @var array
      */
     public $js = [
         YII_DEBUG ? 'feather.js' : 'feather.min.js'

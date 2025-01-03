@@ -1,5 +1,9 @@
 ﻿# CHANGELOG(Registro de alterações)
 
+### [1.0.3] - flag-icons (7.2.3) e ajustes ([@thtmorais](https://gitlab.com/thtmorais))
+- .editorconfig
+- .gitignore
+
 ### [1.0.2] - flag-icons (7.2.1) e feather (4.29.2) ([@thtmorais](https://gitlab.com/thtmorais))
 
 ### [1.0.1b] - README.md ([@thtmorais](https://gitlab.com/thtmorais))
