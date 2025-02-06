@@ -1,6 +1,6 @@
 ﻿To contribute to this project, all the comments below must be followed.
 
-##CHANGELOG
+## CHANGELOG
 
 All changes made to a submission must be registered in the CHANGELOG
 
@@ -12,10 +12,10 @@ Just below the version number, you must enter which changes were made with your 
     
     - Yii PHP Framework
     
-##Conventions
+## Conventions
 
 It is strictly forbidden not to follow conventions and good practices in this project. We use the [Yii PHP Framework](https://yiiframework.com) and its organization and class hierarchy methods must be respected.
     
-##Desenvolvedores
+## Desenvolvedores
 
-###Matheus Evangelista Morais - [thtmorais@hotmail.com](https://gitlab.com/thtmorais)
+### Matheus Evangelista Morais - (GitLab: [thtmorais](https://gitlab.com/thtmorais) / GitHub: [thtmorais](https://github.com/thtmorais))

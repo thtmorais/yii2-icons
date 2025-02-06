@@ -2,7 +2,7 @@
     "name": "thtmorais/yii2-icons",
     "description": "Assets icons for Yii PHP Framework",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","feather","feather icons","icons","assets","assets icons", "flag-icons", "flag"],
+    "keywords": ["yii2", "yii2-extension", "yii2-icons", "feather-icons", "flag-icons"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/thtmorais/yii2-icons/issues",
@@ -17,7 +17,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "npm-asset/feather-icons": "4.29.2",
-        "npm-asset/flag-icons": "7.2.3"
+        "npm-asset/flag-icons": "7.3.2"
     },
     "config": {
         "asset-installer-paths": {
