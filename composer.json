@@ -2,7 +2,7 @@
     "name": "thtmorais/yii2-icons",
     "description": "Assets icons for Yii PHP Framework",
     "type": "yii2-extension",
-    "keywords": ["yii2", "yii2-extension", "yii2-icons", "feather-icons", "flag-icons"],
+    "keywords": ["yii2", "yii2-icons", "yii2-feather-icons", "feather-icons", "yii2-flag-icons", "flag-icons"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/thtmorais/yii2-icons/issues",

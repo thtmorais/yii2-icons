@@ -34,11 +34,22 @@ Feather icons use:
 use thtmorais\icons\FeatherIconsAsset;
 
 FeatherIconsAsset::register($this);
-FlagIconsAsset::register($this);
 
 ?>
 ```
 
 You can preview all Feather icons [here](https://feathericons.com/).
+
+Flag icons use:
+
+```php
+<?php
+
+use thtmorais\icons\FlagIconsAsset;
+
+FlagIconsAsset::register($this);
+
+?>
+```
 
 You can preview all Flag icons [here](https://flagicons.lipis.dev/).

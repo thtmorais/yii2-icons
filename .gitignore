@@ -1,2 +1,5 @@
-# JetBrains IDE's project files
-.idea/*
+# JetBrains IDE's project directories and files
+.idea
+
+# Composer vendor directories and files
+vendor
