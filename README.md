@@ -1,4 +1,4 @@
-Assets icons for Yii PHP Framework
+Assets icons for Yii PHP Framework 2
 ---
 
 Installation
@@ -26,7 +26,7 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
-Feather icons use:
+Feather Icons use:
 
 ```php
 <?php
@@ -38,9 +38,9 @@ FeatherIconsAsset::register($this);
 ?>
 ```
 
-You can preview all Feather icons [here](https://feathericons.com/).
+You can check all details about Feather Icons [here](https://github.com/feathericons/feather).
 
-Flag icons use:
+Flag Icons use:
 
 ```php
 <?php
@@ -52,4 +52,18 @@ FlagIconsAsset::register($this);
 ?>
 ```
 
-You can preview all Flag icons [here](https://flagicons.lipis.dev/).
+You can check all details about Flag Icons [here](https://github.com/lipis/flag-icons).
+
+Keyboard Key Icons use:
+
+```php
+<?php
+
+use thtmorais\icons\KeyboardKeyIconsAsset;
+
+KeyboardKeyIconsAsset::register($this);
+
+?>
+```
+
+You can check all details about Keyboard Key Icons [here](https://github.com/thtmorais/keyboard-key-icons)
