@@ -17,7 +17,8 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "npm-asset/feather-icons": "4.29.2",
-        "npm-asset/flag-icons": "7.5.0"
+        "npm-asset/flag-icons": "7.5.0",
+        "npm-asset/keyboard-key-icons": "0.0.1"
     },
     "config": {
         "asset-installer-paths": {
