@@ -66,4 +66,4 @@ KeyboardKeyIconsAsset::register($this);
 ?>
 ```
 
-You can check all details about Keyboard Key Icons [here](https://github.com/thtmorais/keyboard-key-icons)
+You can check all details about Keyboard Key Icons [here](https://github.com/thtmorais/keyboard-key-icons).
